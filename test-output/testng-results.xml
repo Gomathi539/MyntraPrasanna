@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67356" started-at="2020-04-06T20:01:20 IST" finished-at="2020-04-06T20:02:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67356" started-at="2020-04-06T20:01:20 IST" finished-at="2020-04-06T20:02:27 IST">
+      <class name="com.tyss.myntraTestScript.EditAddressTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:com.tyss.myntraTestScript.EditAddressTest@731a74c]" name="configBc" is-config="true" duration-ms="49036" started-at="2020-04-06T20:01:20 IST" finished-at="2020-04-06T20:02:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBm()[pri:0, instance:com.tyss.myntraTestScript.EditAddressTest@731a74c]" name="configBm" is-config="true" duration-ms="8091" started-at="2020-04-06T20:02:09 IST" finished-at="2020-04-06T20:02:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.tyss.myntraTestScript.EditAddressTest@731a74c]" name="test" duration-ms="7854" started-at="2020-04-06T20:02:17 IST" finished-at="2020-04-06T20:02:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.tyss.myntraTestScript.EditAddressTest@731a74c]" name="configAm" is-config="true" duration-ms="820" started-at="2020-04-06T20:02:25 IST" finished-at="2020-04-06T20:02:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:com.tyss.myntraTestScript.EditAddressTest@731a74c]" name="configAc" is-config="true" duration-ms="1350" started-at="2020-04-06T20:02:26 IST" finished-at="2020-04-06T20:02:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.tyss.myntraTestScript.EditAddressTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
